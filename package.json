@@ -1,11 +1,17 @@
 {
   "name": "promisify-f",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a function that returns a future into a function that returns a promise.",
   "keywords": [
     "promise",
+    "promisify",
     "future",
-    "convert"
+    "functional",
+    "function",
+    "convert",
+    "compatible",
+    "fantasy",
+    "land"
   ],
   "main": "index.js",
   "scripts": {
